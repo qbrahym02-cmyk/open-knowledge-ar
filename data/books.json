@@ -1,8 +1,8 @@
 {
   "site": "المعرفة المفتوحة",
   "tagline": "مكتبة عربية للمعرفة الحرة",
-  "count": 47,
-  "total_words": 3333945,
+  "count": 48,
+  "total_words": 3344826,
   "domains": {
     "01_medicine": "الطب والصحة",
     "02_economics": "الاقتصاد والمجتمع",
@@ -1047,6 +1047,28 @@
       "source_words": 7569,
       "chunks": 4,
       "minutes": 125,
+      "batch": 4
+    },
+    {
+      "id": "happy_prince",
+      "title_ar": "الأمير السعيد وحكايات أخرى",
+      "title_en": "The Happy Prince and Other Tales",
+      "author_ar": "أوسكار وايلد",
+      "author_en": "Oscar Wilde",
+      "domain": "07_literature",
+      "domain_ar": "الأدب",
+      "year": "١٨٨٨",
+      "desc": "الأمير السعيد وحكايات أخرى — خمس حكاياتٍ خالدة لأوسكار وايلد: تمثالُ الأمير الذهبي الذي يبكي على فقراء مدينته، والعندليب الذي يبني وردةً من دم قلبه، والعملاق الذي تعلم من الأطفال الربيع، والصديق الوفيّ المزيف، والصاروخ المتكبر. ترجمة كاملة بكل حكاياتها الخمس.",
+      "badge": "ملك عام",
+      "license_full": "النص الأصلي (1888) في الملك العام. هذه الترجمة العربية منشورة بإذن حر. المصدر: gutenberg.org/ebooks/902",
+      "source_url": "https://www.gutenberg.org/ebooks/902",
+      "cover": "covers/happy_prince.png",
+      "md": "downloads/happy_prince/happy_prince_ar.md",
+      "epub": "downloads/happy_prince/happy_prince_ar.epub",
+      "words": 10881,
+      "source_words": 16372,
+      "chunks": 8,
+      "minutes": 245,
       "batch": 4
     }
   ]
