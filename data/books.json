@@ -1,8 +1,8 @@
 {
   "site": "المعرفة المفتوحة",
   "tagline": "مكتبة عربية للمعرفة الحرة",
-  "count": 45,
-  "total_words": 3316786,
+  "count": 46,
+  "total_words": 3328554,
   "domains": {
     "01_medicine": "الطب والصحة",
     "02_economics": "الاقتصاد والمجتمع",
@@ -1004,6 +1004,28 @@
       "chunks": 61,
       "minutes": 2060,
       "batch": 3
+    },
+    {
+      "id": "the_law",
+      "title_ar": "القانون",
+      "title_en": "The Law (La Loi)",
+      "author_ar": "فريدريك باستيا",
+      "author_en": "Frédéric Bastiat",
+      "domain": "02_economics",
+      "domain_ar": "الاقتصاد والمجتمع",
+      "year": "١٨٥٠",
+      "desc": "القانون — أكثر نصوص فريدريك باستيا شهرةً وأثرًا: بيانٌ حادٌّ في حرية الإنسان وحدود سلطة الدولة، وردٌّ صريح على الاشتراكية في مهدها. يُعرّف القانونَ بأنه تنظيمُ العدالة وحدها، ويحذّر من تحويله أداةً للاستغلال بحجة الخير العام. ترجمة كاملة عن الأصل الفرنسي مع الحواشي.",
+      "badge": "ملك عام",
+      "license_full": "النص الأصلي الفرنسي (1850) في الملك العام. هذه الترجمة العربية منشورة بإذن حر. المصدر: fr.wikisource.org — الأعمال الكاملة لفريدريك باستيا",
+      "source_url": "https://fr.wikisource.org/wiki/La_Loi_(Fr%C3%A9d%C3%A9ric_Bastiat)",
+      "cover": "covers/the_law.png",
+      "md": "downloads/the_law/the_law_ar.md",
+      "epub": "downloads/the_law/the_law_ar.epub",
+      "words": 11768,
+      "source_words": 16069,
+      "chunks": 7,
+      "minutes": 265,
+      "batch": 4
     }
   ]
 }
