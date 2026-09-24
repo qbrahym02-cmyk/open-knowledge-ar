@@ -1,8 +1,8 @@
 {
   "site": "المعرفة المفتوحة",
   "tagline": "مكتبة عربية للمعرفة الحرة",
-  "count": 46,
-  "total_words": 3328554,
+  "count": 47,
+  "total_words": 3333945,
   "domains": {
     "01_medicine": "الطب والصحة",
     "02_economics": "الاقتصاد والمجتمع",
@@ -1025,6 +1025,28 @@
       "source_words": 16069,
       "chunks": 7,
       "minutes": 265,
+      "batch": 4
+    },
+    {
+      "id": "as_a_man",
+      "title_ar": "المرء كما يفكر",
+      "title_en": "As a Man Thinketh",
+      "author_ar": "جيمس ألين",
+      "author_en": "James Allen",
+      "domain": "09_writing_selfdev",
+      "domain_ar": "الكتابة وتطوير الذات",
+      "year": "١٩٠٣",
+      "desc": "المرء كما يفكر — الكتيّب الخالد لجيمس ألين في قوة الفكر وصناعة الذات: النفسُ بذرتها أفكارُها، والظروفُ مرآةٌ لما يضمره العقل، والطبعُ مجموعُ ما يفكر به المرء. سبعةُ فصولٍ موجزة غيّرت ملايين الحيوات، بترجمة كاملة عن نصّ المشروع الأصلي.",
+      "badge": "ملك عام",
+      "license_full": "النص الأصلي (1903) في الملك العام. هذه الترجمة العربية منشورة بإذن حر. المصدر: gutenberg.org/ebooks/4507",
+      "source_url": "https://www.gutenberg.org/ebooks/4507",
+      "cover": "covers/as_a_man.png",
+      "md": "downloads/as_a_man/as_a_man_ar.md",
+      "epub": "downloads/as_a_man/as_a_man_ar.epub",
+      "words": 5391,
+      "source_words": 7569,
+      "chunks": 4,
+      "minutes": 125,
       "batch": 4
     }
   ]
